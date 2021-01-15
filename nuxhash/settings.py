@@ -26,7 +26,7 @@ DEFAULT_SETTINGS = {
         'units': 'mBTC'
         },
     'donate': {
-        'optout': False
+        'optout': True
         },
     'excavator_miner': {
         'listen': '',
